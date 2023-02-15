@@ -32,3 +32,14 @@ auto crop images
 
 * Regenerate Thumbnails - https://wordpress.org/plugins/regenerate-thumbnails/
 
+---
+all post
+Post Types Order -  https://wordpress.org/plugins/post-types-order/
+
+---
+
+acf-theme-code-pro - 
+
+
+
+
